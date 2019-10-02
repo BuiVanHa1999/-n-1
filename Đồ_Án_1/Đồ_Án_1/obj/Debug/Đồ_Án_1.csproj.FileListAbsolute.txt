@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Học Kỳ 5\Đồ_Án_1\Đồ_Án_1\obj\Debug\Đồ_Án_1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Học Kỳ 5\Đồ_Án_1\Đồ_Án_1\obj\Debug\Đồ_Án_1.Properties.Resources.resources
+C:\Users\admin\Desktop\Học Kỳ 5\Đồ_Án_1\Đồ_Án_1\obj\Debug\Đồ_Án_1.Thao_tác_với_file.resources
+C:\Users\admin\Desktop\Học Kỳ 5\Đồ_Án_1\Đồ_Án_1\obj\Debug\Đồ_Án_1.XemFile.resources
+C:\Users\admin\Desktop\Học Kỳ 5\Đồ_Án_1\Đồ_Án_1\obj\Debug\Đồ_Án_1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Học Kỳ 5\Đồ_Án_1\Đồ_Án_1\obj\Debug\Đồ_Án_1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Học Kỳ 5\Đồ_Án_1\Đồ_Án_1\bin\Debug\Đồ_Án_1.exe.config
+C:\Users\admin\Desktop\Học Kỳ 5\Đồ_Án_1\Đồ_Án_1\bin\Debug\Đồ_Án_1.exe
+C:\Users\admin\Desktop\Học Kỳ 5\Đồ_Án_1\Đồ_Án_1\bin\Debug\Đồ_Án_1.pdb
+C:\Users\admin\Desktop\Học Kỳ 5\Đồ_Án_1\Đồ_Án_1\obj\Debug\Đồ_Án_1.exe
+C:\Users\admin\Desktop\Học Kỳ 5\Đồ_Án_1\Đồ_Án_1\obj\Debug\Đồ_Án_1.pdb

@@ -1,0 +1,25 @@
+MYDATABASE
+Comment So Luong Field: 9, So Luong Mau Tin: 10
+Comment Ten Field Start Width DatType: I: SoNguyen, C: Char, F: So thuc, B: Bool, D: Ngay
+9
+Masach            1      10     I     
+Tensach           12     35     C
+Loaisach          34     2      I 
+Dongia            27     10     I
+Ngaymuahang       38     12     D
+Soluongmua        50     5      I
+Tongtien          55     12     I
+Giamgia           67     5      I
+Thanhtien         72     12     I
+
+50
+1001      Cấu Trúc Dữ Liệu Và Giải Thuật     1 85000     15/10/2018  10   850000       10   0           
+1001      Cấu Trúc Dữ Liệu Và Giải Thuật     1 85000     23/07/2019  20   1700000      20   0           
+3002      Kính Vạn Hoa                       3 360000    05/12/2016  5    1800000      20   0           
+5001      Toán Cao Cấp A1                    5 60000     20/10/2018  10   600000       10   0           
+1010      Cơ sở Trí Tuệ Nhân Tạo AI          1 550000    16/08/2017  2    1100000      20   0           
+1001      Cấu Trúc Dữ Liệu Và Giải Thuật     1 85000     25/10/2018  10   850000       10   0           
+1001      Cấu Trúc Dữ Liệu Và Giải Thuật     1 85000     10/07/2019  20   1700000      20   0           
+3002      Kính Vạn Hoa                       3 360000    16/12/2016  5    1800000      20   0           
+5001      Toán Cao Cấp A1                    5 60000     09/10/2018  10   600000       10   0           
+1010      Cơ sở Trí Tuệ Nhân Tạo AI          1 550000    16/09/2017  2    1100000      20   0                 
